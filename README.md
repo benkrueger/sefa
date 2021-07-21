@@ -4,7 +4,7 @@ Finite Automata For selenium tasks
 
 ## Preface
 
-UI Testing Automation is tedious, error prone and overall a pain. The selenium framework dose a good job of
+UI Testing Automation is tedious, error prone and overall a pain. The selenium framework does a good job of
 providing low level functionality to interacting with a web browser programmatically, but the actual implementation
 of those tests remains tricky. Until now. Now, defining web UI automation is as easy as drawing a UML diagram!
 
